@@ -67,7 +67,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="">
+                <a class="navbar-brand" href="{{  route('front') }}">
                     <img src="{{ asset('assets/img/logo2.png') }}" class="logo" alt="Logo">
                 </a>
             </div>
