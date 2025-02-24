@@ -9,7 +9,7 @@
     />
     <meta name="description" content=""/>
     <meta name="author" content=""/>
-    <title>Forms</title>
+    <title>Docs</title>
     <link
         href="https://cdn.jsdelivr.net/npm/litepicker/dist/css/litepicker.css"
         rel="stylesheet"
@@ -124,12 +124,12 @@
                 </div>
             </div>
             <!-- Sidenav Footer-->
-            <div class="sidenav-footer">
-                <div class="sidenav-footer-content">
-                    <div class="sidenav-footer-subtitle">Logged in as:</div>
-                    <div class="sidenav-footer-title">Valerie Luna</div>
-                </div>
-            </div>
+{{--            <div class="sidenav-footer">--}}
+{{--                <div class="sidenav-footer-content">--}}
+{{--                    <div class="sidenav-footer-subtitle">Logged in as:</div>--}}
+{{--                    <div class="sidenav-footer-title">Valerie Luna</div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </nav>
     </div>
     <div id="layoutSidenav_content">
